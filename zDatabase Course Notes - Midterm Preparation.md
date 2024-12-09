@@ -54,6 +54,17 @@ Software needed for trends and projections:
 Examples by Application areas:
 >[!TIP]
 >You Need To Know At Least THREE (3) Application Areas
+><pre>1. healthcare
+  2. finance
+  3. airline
+  4. university
+  5. telecommunicaton
+  6. social media
+  7. e-commerce
+  8. inventory
+  9. library
+></pre>
+
 
 **Healthcare Facility**:
 - Data: Patient's vital signs (blood pressure: 120/80 mmHg, temperature: 98.6°F, heart rate: 72 bpm)
