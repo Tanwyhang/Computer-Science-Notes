@@ -28,7 +28,7 @@
 
 ## Tutorial 1-2: Applications of Database & Database Concepts
 
-#e-commerce-database-usage
+# e-commerce-database-usage
 **Q: What is the purpose of the largest databases used by e-commerce companies such as Amazon.com? How do e-commerce companies use these databases?**
 
 The largest databases used by e-commerce companies like Amazon.com manage:
@@ -46,7 +46,7 @@ These databases are used to:
 - Display product detail/ shipping status/ order status
 - Identify frequently asked questions via chat
 
-#computerized-data-management-systems
+# computerized-data-management-systems
 **Q: You are trying to justify a computerised data management system to your supervisor. You work in a service industry that deals directly with customers. How could collecting information about your customers provide a competitive advantage? What kind of software would you need to detect trends and make predictions about customer activities?**
 
 Competitive advantage through customer information:
@@ -59,7 +59,7 @@ Software needed for trends and projections:
 - Analytics Tools: Google Analytics, Tableau, PowerBI (Able to do the analysis according to your data)
 - Machine Learning: TensorFlow, Scikit-learn
 
-#relationship-between-information-data-and-knowledge
+# relationship-between-information-data-and-knowledge
 **Q: Explain the relationship between information, data and knowledge. Use relevant examples for different organizations.**
 
 #### Definitions:
