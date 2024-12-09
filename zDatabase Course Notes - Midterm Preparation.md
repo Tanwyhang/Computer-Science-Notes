@@ -1,9 +1,7 @@
 ## Tutorial 1-2: Applications of Database & Database Concepts
 
 ### Question 1
-**Q: What is the purpose of the largest databases used by e-commerce companies such as Amazon.com? How do e-commerce companies use these databases?**
-
-The largest databases used by e-commerce companies like Amazon.com manage:
+**purpose of database in e-commerce**:
 <pre>
 - Inventory
 - Product detail
