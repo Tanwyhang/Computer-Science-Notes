@@ -150,7 +150,7 @@ A DBMS is a software suite that creates, processes, and administers databases. I
 4. Execute application logic
 5. Control applications
 
-
+<br></br>
 # Tutorial 3-5: Data Models (Entity Relationship Diagram)
 
 ### Question 1
