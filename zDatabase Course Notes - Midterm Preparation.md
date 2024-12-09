@@ -104,12 +104,10 @@ Database:
 
 Problems with file-based system:
 1. As the system becomes complex, access paths become difficult to manage and tend to produce malfunctions
-2. Complex coding establishes precise location of files and system components and data characteristics
-3. As the number of files increases, system administration becomes difficult
+2. require more complex coding to locate files
 4. Duplicate of data appears frequently
-5. Limited data sharing capabilities
 6. Excessive program maintenance required
-7. Program data dependence and structure dependence issues arise
+7. data structure dependence issues arise
 
 Database solutions:
 1. Simplified data access with centralised management
