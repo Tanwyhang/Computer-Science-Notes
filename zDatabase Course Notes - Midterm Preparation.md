@@ -24,6 +24,8 @@ These databases are used to:
 - Identify frequently asked questions via chat
 </pre>
 
+<br></br>
+
 ### Question 2
 **Q: You are trying to justify a computerised data management system to your supervisor. You work in a service industry that deals directly with customers. How could collecting information about your customers provide a competitive advantage? What kind of software would you need to detect trends and make predictions about customer activities?**
 
@@ -40,6 +42,8 @@ Software needed for trends and projections:
 - Analytics Tools: Google Analytics, Tableau, PowerBI (Able to do the analysis according to your data)
 - Machine Learning: TensorFlow, Scikit-learn
 </pre>
+
+<br></br>
 
 ### Question 3
 **Q: Explain the relationship between information, data and knowledge. Use relevant examples for different organizations.**
@@ -81,6 +85,8 @@ Examples by Application areas:
 - Information: Analysis shows burglaries peak between 8 PM and midnight
 - Knowledge: Officials deploy additional patrols during peak hours
 
+<br></br>
+
 ### Question 4
 **Q: How is a file-based system different from a database management system?**
 
@@ -92,6 +98,8 @@ Database:
 - Logically related data stored in a single logical repository
 - Data is not owned by any individual department
 - Access to data controlled by DBMS
+
+<br></br>
 
 ### Question 5
 **Q: Lei Tai Kor runs a convenience store business (EasBuy Sdn Bhd), selling daily use and household items. Currently, he uses a system written entirely in C++ to monitor his business transactions and inventories. He plans to expand his business in the near future to nearby housing estates and if that proves successful, he will then expand to nearby cities. Explain with relevant examples THREE problems that EasBuy will face when he tries to expand the business due to the file-base system that he is using now. Also explain how a database system can overcome these problems.**
@@ -114,6 +122,8 @@ Database solutions:
 6. Programs can be maintained easily
 7. DBMS allows modification of data dependence or database structure without affecting operations
 
+<br></br>
+
 ### Question 6
 **Q: What is data redundancy, and which characteristics of the file system can lead to it?**
 
@@ -125,6 +135,8 @@ Causes in file systems:
 1. Lack of normalization: Data may be repeatedly stored in multiple places without proper organization. For example, customer addresses might appear in several files or records
 2. Poor file structure or organization: The same data might be stored in multiple files, folders, or directories
 3. Poor design of the file-based system leading to unnecessary duplication
+
+<br></br>
 
 ### Question 7
 **Q: Explain any 5 types of databases with reference to the number of supported users. Also explain the locations of databases.**
@@ -140,6 +152,8 @@ Locations of Database:
 1. Centralised Database: Only involves one database server and it is accessible by every device
 2. Distributed Database: Database that is allocated as a distributed site
 
+<br></br>
+
 ### Question 8
 **Q: What is a DBMS, and what are its functions?**
 
@@ -151,6 +165,7 @@ A DBMS is a software suite that creates, processes, and administers databases. I
 5. Control applications
 
 <br></br>
+
 # Tutorial 3-5: Data Models (Entity Relationship Diagram)
 
 ### Question 1
