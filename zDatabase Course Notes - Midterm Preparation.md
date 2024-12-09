@@ -57,13 +57,16 @@ Would you like me to provide clickable links for each section or add any additio
 **Q: What is the purpose of the largest databases used by e-commerce companies such as Amazon.com? How do e-commerce companies use these databases?**
 
 The largest databases used by e-commerce companies like Amazon.com manage:
-- Product catalogues
-- Customer data
-- Orders detail
+<pre>
 - Inventory
+- Product detail
+- Customer detail
+- Orders detail
+  
 - Personalisation
-- Analytics (trend of customer behaviours)
+- Market trend
 - Fraud detection
+</pre>
 
 These databases are used to:
 - Identify best seller / hot selling products
