@@ -1,34 +1,59 @@
 # Database Course Notes - Midterm Preparation
 
-## Table of Contents
+# Table of Contents
 
-### Tutorial 1-2: Applications of Database & Database Concepts
-- [E-commerce Database Usage](#e-commerce-database-usage)
-- [Computerized Data Management Systems](#computerized-data-management-systems)
-- [Relationship Between Information, Data, and Knowledge](#relationship-between-information-data-and-knowledge)
-- [File-Based vs Database Systems](#file-based-vs-database-systems)
-- [EasBuy Case Study](#easbuy-case-study)
-- [Data Redundancy](#data-redundancy)
-- [Types of Databases](#types-of-databases)
-- [Functions of a DBMS](#functions-of-a-dbms)
+## Tutorial 1-2: Applications of Database & Database Concepts
+- [Question 1: E-commerce Database Purpose and Usage](#question-1)
+- [Question 2: Computerized Data Management Systems](#question-2)
+- [Question 3: Information, Data, and Knowledge Relationships](#question-3)
+  - [Definitions](#definitions)
+  - [Examples by Organization Type](#examples-by-organization)
+    - [Healthcare Facility](#healthcare-facility)
+    - [Institution of Higher Learning](#institution-of-higher-learning)
+    - [Law Enforcement Agency](#law-enforcement-agency)
+- [Question 4: File-based vs Database Management Systems](#question-4)
+- [Question 5: EasBuy Case Study](#question-5)
+  - [Problems with File-based System](#problems-with-file-based-system)
+  - [Database Solutions](#database-solutions)
+- [Question 6: Data Redundancy](#question-6)
+- [Question 7: Types of Databases](#question-7)
+- [Question 8: DBMS Functions](#question-8)
 
-### Tutorial 3-5: Data Models (Entity Relationship Diagram)
-- [Models and Their Importance](#models-and-their-importance)
-- [Business Rules](#business-rules)
-- [ProdCo ERD](#prodco-erd)
-- [Tiny College Database](#tiny-college-database)
-- [ROBCOR Cinema Database](#robcor-cinema-database)
-- [Housing Property Database](#housing-property-database)
-- [Kuala Lumpur School System](#kuala-lumpur-school-system)
+## Tutorial 3-5: Data Models (Entity Relationship Diagram)
+- [Question 1: Models and Their Importance](#question-1-models)
+  - [Definition and Examples](#definition-and-examples)
+  - [Importance of Data Models](#importance-of-data-models)
+  - [Logical View of Supplier Details](#logical-view-of-supplier-details)
+- [Question 2: Business Rules](#question-2-business-rules)
+- [Question 3: ProdCo ERD](#question-3-prodco)
+- [Question 4: Tiny College Database](#question-4-tiny-college)
+- [Question 5: ROBCOR Cinema Database](#question-5-robcor)
+- [Question 6: Housing Property Database](#question-6-housing)
+- [Question 7: Premier Hardware Database](#question-7-premier-hardware)
+- [Question 8: Very Popular Bookstores Database](#question-8-vpb)
+- [Question 9: Kuala Lumpur School System](#question-9-kl-schools)
 
-### Tutorial 6-8: Structured Query Language (SQL)
-- [Simple Queries](#simple-queries)
+## Tutorial 6-8: Structured Query Language
+- [Simple Queries (Important for Midterm)](#simple-queries)
+  - [Basic SELECT Statements](#basic-select-statements)
+  - [Using WHERE Clauses](#using-where-clauses)
+  - [Pattern Matching with LIKE](#pattern-matching-with-like)
+  - [Sorting with ORDER BY](#sorting-with-order-by)
 - [Advanced Queries](#advanced-queries)
+  - [Date Functions](#date-functions)
+  - [Location-based Queries](#location-based-queries)
+  - [Employment Duration Queries](#employment-duration-queries)
 - [Key SQL Concepts](#key-sql-concepts)
+  - [Basic Commands](#basic-commands)
+  - [Comparison Operators](#comparison-operators)
+  - [Wildcards](#wildcards)
+  - [Date Functions](#date-functions)
+
+Would you like me to provide clickable links for each section or add any additional categories to the table of contents?
 
 ## Tutorial 1-2: Applications of Database & Database Concepts
 
-# e-commerce-database-usage
+### Question 1
 **Q: What is the purpose of the largest databases used by e-commerce companies such as Amazon.com? How do e-commerce companies use these databases?**
 
 The largest databases used by e-commerce companies like Amazon.com manage:
@@ -46,7 +71,7 @@ These databases are used to:
 - Display product detail/ shipping status/ order status
 - Identify frequently asked questions via chat
 
-# computerized-data-management-systems
+### Question 2
 **Q: You are trying to justify a computerised data management system to your supervisor. You work in a service industry that deals directly with customers. How could collecting information about your customers provide a competitive advantage? What kind of software would you need to detect trends and make predictions about customer activities?**
 
 Competitive advantage through customer information:
@@ -59,7 +84,7 @@ Software needed for trends and projections:
 - Analytics Tools: Google Analytics, Tableau, PowerBI (Able to do the analysis according to your data)
 - Machine Learning: TensorFlow, Scikit-learn
 
-# relationship-between-information-data-and-knowledge
+### Question 3
 **Q: Explain the relationship between information, data and knowledge. Use relevant examples for different organizations.**
 
 #### Definitions:
