@@ -69,33 +69,44 @@ The largest databases used by e-commerce companies like Amazon.com manage:
 </pre>
 
 These databases are used to:
+
+<pre>
 - Identify best seller / hot selling products
 - Identify activity time for different customers (customer behaviour)
 - Display product detail/ shipping status/ order status
 - Identify frequently asked questions via chat
+</pre>
 
 ### Question 2
 **Q: You are trying to justify a computerised data management system to your supervisor. You work in a service industry that deals directly with customers. How could collecting information about your customers provide a competitive advantage? What kind of software would you need to detect trends and make predictions about customer activities?**
 
 Competitive advantage through customer information:
+<pre>
 - Personalised services and offers
 - Identifies market trends and adapts quickly (To know the best selling products)
 - Enhances customer satisfaction and loyalty
+</pre>
 
 Software needed for trends and projections:
+<pre>
 - Customer Relationship Management (CRM) Systems: Salesforce, HubSpot
 - Analytics Tools: Google Analytics, Tableau, PowerBI (Able to do the analysis according to your data)
 - Machine Learning: TensorFlow, Scikit-learn
+</pre>
 
 ### Question 3
 **Q: Explain the relationship between information, data and knowledge. Use relevant examples for different organizations.**
 
 #### Definitions:
+<pre>
 1. **Data**: Raw facts, unprocessed facts and figures without context or meaning (e.g: Student ID, Student Name, Student Email)
 2. **Information**: Processed or organised data that has meaning and is useful for analysis or decision-making
 3. **Knowledge**: Insights, expertise, or understanding derived from the application of information in a particular context
+</pre>
 
-Examples by Organization:
+Examples by Application areas:
+>[!TIP]
+>You Need To Know At Least THREE (3) Application Areas
 
 **Healthcare Facility**:
 - Data: Patient's vital signs (blood pressure: 120/80 mmHg, temperature: 98.6°F, heart rate: 72 bpm)
