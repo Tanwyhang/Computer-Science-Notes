@@ -103,20 +103,18 @@ Database:
 **Q: Lei Tai Kor runs a convenience store business (EasBuy Sdn Bhd), selling daily use and household items. Currently, he uses a system written entirely in C++ to monitor his business transactions and inventories. He plans to expand his business in the near future to nearby housing estates and if that proves successful, he will then expand to nearby cities. Explain with relevant examples THREE problems that EasBuy will face when he tries to expand the business due to the file-base system that he is using now. Also explain how a database system can overcome these problems.**
 
 Problems with file-based system:
-1. As the system becomes complex, access paths become difficult to manage and tend to produce malfunctions
-2. require more complex coding to locate files
-4. Duplicate of data appears frequently
-6. Excessive program maintenance required
-7. data structure dependence issues arise
+1. require more complex coding to locate files
+2. Duplicate of data appears frequently
+3. Data ont updated synchrously (data inconsistency)
+4. Excessive program maintenance required
+5. data structure dependence issues arise
 
 Database solutions:
 1. Simplified data access with centralised management
 2. Flexible data structure and reduced coding complexity
-3. Streamlined system administration
-4. No uncontrolled redundancy - only one database managed by the DBMS ensures consistent updates
-5. Enhanced data sharing across departments and organizations
-6. Programs can be maintained easily
-7. DBMS allows modification of data dependence or database structure without affecting operations
+3. No uncontrolled redundancy - only one database
+4. Programs can be maintained easily
+5. DBMS allows modification of data dependence or database structure without affecting operations
 
 <br></br>
 
