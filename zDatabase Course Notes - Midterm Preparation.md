@@ -178,8 +178,8 @@ Examples:
 
 Importance of data models:
 1. Acts as a communication tool to facilitate interaction among system designers, applications programmers, and end users
-2. Good database design uses an appropriate data model as its foundation
-3. End-users have different views of data. Data model provides the whole view of data
+2. Act as foundation for good database design
+3. Data model provides the whole view of data for end users
 4. Data model organises data for various users who have different needs for data
 
 Logical view of supplier details:
